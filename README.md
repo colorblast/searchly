@@ -1,6 +1,6 @@
 # searchly
 duckduckgo instant answers in the terminal
-<script type="text/javascript" src="https://asciinema.org/a/44946.js" id="asciicast-44946" async></script>
+[![asciicast](https://asciinema.org/a/44946.png)](https://asciinema.org/a/44946)
 
 ## To install
 
